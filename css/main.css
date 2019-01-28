@@ -1,0 +1,233 @@
+@charset "utf-8";
+/*CSS document*/
+
+.hidden
+{
+	display: none;
+}
+
+body
+{
+	background-color: #a8a39b;
+	font-family: Helvetica, Arial, Sans-serif;
+	font-size: 14px;
+	color: #333;
+
+}
+
+#container
+{
+	width: 960px;
+	padding-left: 5px;
+	
+	margin: 0 auto;
+}
+
+.title
+{
+	font-size: 34px;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 80px;
+	font-family: 'Pacifico', cursive;
+
+}
+
+#wideBanner
+{
+	text-align: center; 
+}
+
+#box1
+{
+	width: 700px;
+	text-align: center;
+	font-size: 16px;
+	padding: 40px 30px 90px 30px;
+	margin: 0 auto;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.5;
+	letter-spacing: .5px;
+}
+
+#tray
+{
+	text-align: center;
+
+}
+
+#box2
+{
+	width: 700px;
+	text-align: center;
+	font-size: 16px;
+	padding: 40px 30px 90px 30px;
+	margin: 0 auto;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.5;
+	letter-spacing: .5px;
+}
+
+#river
+{
+	text-align: center;
+}
+
+#box3
+{
+	width: 700px;
+	text-align: center;
+	font-size: 16px;
+	padding: 40px 30px 90px 30px;
+	margin: 0 auto;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.5;
+	letter-spacing: .5px;
+}
+
+#fishTag
+{
+	text-align: center;
+}
+
+#box4
+{
+	width: 700px;
+	text-align: center;
+	font-size: 16px;
+	padding: 40px 30px 90px 30px;
+	margin: 0 auto;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.5;
+	letter-spacing: .5px;
+}
+
+#eggs
+{
+	text-align: center;
+}
+
+#h3
+{
+	width: 600px;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 40px;
+	margin: 0 auto;
+	padding-bottom: 50px;
+	font-family: 'Source Code Pro', monospace;
+	letter-spacing: 1px;
+	line-height: 1;
+	font-style: italic;
+}
+
+#box5
+{
+	width: 700px;
+	text-align: center;
+	font-size: 16px;
+	margin: 0 auto;
+	padding: 0px 30px 90px 30px;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.5;
+	letter-spacing: .5px;
+}
+
+#fishHead
+{
+	text-align: center;
+}
+
+#box6
+{
+	width: 700px;
+	text-align: center;
+	font-size: 16px;
+	padding: 40px 30px 90px 30px;
+	margin: 0 auto;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.5;
+	letter-spacing: .5px;
+}
+
+#fishPortrait #rightSide
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#fishPortrait
+{
+	text-align: left;
+	padding-bottom: 110px;
+}
+
+.row
+{
+	display: flex;
+	flex-direction: row;
+}
+
+.row p 
+{
+	padding: 0px 40px;
+}
+
+#rightSide
+{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	font-size: 16px;
+	padding: 40px 30px 60px 30px;
+	padding-top: 40px;
+	margin: 0 auto;
+	padding-bottom: 60px;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.5;
+	letter-spacing: .5px;
+	font-weight: bold;
+}
+
+#rainbowT
+{
+	font-size: 20px;
+	padding-top: 30px;
+	margin: 0 auto;
+	padding-bottom: 90px;
+	font-family: 'Source Code Pro', monospace;
+	letter-spacing: 1px;
+	line-height: 1;
+	font-style: italic;
+
+}
+
+#fishRuler
+{
+	text-align: center;
+}
+
+#box7
+{
+	width: 700px;
+	text-align: center;
+	font-size: 16px;
+	padding: 30px 30px 40px 30px;
+	margin: 0 auto;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.5;
+	letter-spacing: .5px;
+	font-weight: bold;
+}
+
+#source
+{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	font-style: italic;
+	font-weight: lighter;
+}
+
+
+
